@@ -64,7 +64,7 @@ This repository contains a Power BI project that analyzes and visualizes data fr
 
 ## Contributors
 
-- [Rahul KB] - [[Your GitHub Profile](https://github.com/RahulKB31)]([https://github.com/yourusername](https://github.com/RahulKB31))
+- [Rahul KB] - https://github.com/RahulKB31
 
 ## License
 
