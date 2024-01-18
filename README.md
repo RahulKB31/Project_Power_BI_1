@@ -3,7 +3,6 @@
 This repository contains a Power BI project that analyzes and visualizes data from a student survey, focusing on students' spending habits across various categories and store settings. The goal of this project is to provide meaningful insights into students' purchasing behaviors, segmented by different factors, and create informative visualizations for decision-making.
 
 ## Dashboard Preview
-
 ![Dashboard Preview](student spend analysis.png)
 
 ## Project Tasks and Visualizations
